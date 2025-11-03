@@ -1,1 +1,2 @@
 # La-agricultura
+Hemos hecho referencia a los tres períodos que marcan el desarrollo de la agricultura entre 1900 y 1930. Entre 1900 y 1914, el progreso casi paralelo de los cereales y lino y la alfalfa, determinaron el del área total bajo cultivo que adquirió entonces una forma similar: entre 1914 y 1921, los primeros detuvieron su crecimiento en tanto que la alfalfa continuó el suyo hasta tocar el año 1921 su máximo; el tercer período se caracteriza por un fuerte ascenso de los cereales y lino y un igualmente pronunciado descenso de la alfalfa.
